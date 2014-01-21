@@ -1,0 +1,18 @@
+{
+    "name": "hashcrack",
+    "description": "crack SHA1 hashes across a network",
+    "author": "Alex Nichol <unixpickle@gmail.com>",
+    "repository": "https://github.com/unixpickle/hashcrack.git",
+    "dependencies": {
+        "express": "3.4.x",
+        "socket.io": "0.9.x"
+    },
+    "version": "0.0.1",
+    "licenses": [{
+        "type": "GPL",
+        "url": "http://www.gnu.org/licenses/gpl.html"
+    }],
+    "engines": {
+        "node": "0.10.x"
+    }
+}
